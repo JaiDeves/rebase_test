@@ -1,3 +1,5 @@
-pushing to master
+Step1: pushing to master 
 
-feature_1 created
+Step2: feature_1 created
+
+Step3: Updating master
